@@ -1,0 +1,9 @@
+<view>
+  <text class="title">{{hd[N]}}</text>
+</view>
+<view>
+  <button class="button1" bindtap="choice1" wx:if="{{N<4}}">{{choice1[N]}}</button>
+  <button class="button2" bindtap="choice2" wx:if="{{N<4}}">{{choice2[N]}}</button>
+  <button class="button3" bindtap="choice3" wx:if="{{(N%2===1)&&(N>1)}}">返回上一步</button>
+  <button class="button3" bindtap="choice4" wx:if="{{N%2===0}}">返回上一步</button>
+</view>

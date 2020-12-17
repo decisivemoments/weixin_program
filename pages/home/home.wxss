@@ -1,0 +1,51 @@
+.button1 {
+  cursor: pointer;
+  width: 700rpx;
+  height: 100rpx;
+  line-height: 45px;
+  padding: 0;
+  background: 0 0;
+  background-color: #4ef24e;
+  border-radius: 15px;
+  font-size: 17px;
+  color: #fff;
+  box-shadow: none;
+  font-weight: 400;
+  border: none;
+  outline: 0;
+  margin: 0 10px;
+}
+.button2 {
+  cursor: pointer;
+  width: 700rpx;
+  height: 100rpx;
+  line-height: 45px;
+  padding: 0;
+  background: 0 0;
+  background-color: #4e82f2;
+  border-radius: 15px;
+  font-size: 17px;
+  color: #fff;
+  box-shadow: none;
+  font-weight: 400;
+  border: none;
+  outline: 0;
+  margin: 0 10px;
+}
+.button3 {
+  cursor: pointer;
+  width: 700rpx;
+  height: 100rpx;
+  line-height: 45px;
+  padding: 0;
+  background: 0 0;
+  background-color: #f24ed7;
+  border-radius: 15px;
+  font-size: 17px;
+  color: #fff;
+  box-shadow: none;
+  font-weight: 400;
+  border: none;
+  outline: 0;
+  margin: 0 10px;
+}
